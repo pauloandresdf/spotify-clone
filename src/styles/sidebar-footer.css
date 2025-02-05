@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     font-family: var(--font-dm-sans);
 }
 
@@ -180,7 +180,7 @@ h1 {
     bottom: 0;
     left: 0;
     right: 0;
-    background-image: linear-gradient(to right, #2bff00, #000000);
+    background-image: linear-gradient(to right, #ff7300, #5700e4);
     padding: 15px 40px;
     display: flex;
     justify-content: space-between;
