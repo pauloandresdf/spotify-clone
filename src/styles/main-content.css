@@ -88,6 +88,19 @@
     border-radius: 40px;
 }
 
+.header__search:hover {
+  border: 1px solid #fff;
+}
+
+.header__login .subscribe:hover {
+  transform: scale(1.04);
+  color: #fff;
+}
+
+.header__login .login:hover {
+  transform: scale(1.04);
+}
+
 
 /*Playlist*/
 playlist-container {
