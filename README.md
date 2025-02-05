@@ -1,7 +1,9 @@
 ## Clonei a Pagina do Spotify  
-[Não clicar]([https://pauloandresdf.github.io/challenge-amigo-secreto/](https://pauloandresdf.github.io/spotify-clone/))
+
 Este projeto consiste em uma replica da página do Spotify versão desktop, 
  aprendida na Imersão Front-End proporcionado pela empresa Alura.💙
+
+ [spotify-clone](https://pauloandresdf.github.io/spotify-clone/)
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://github.com/pauloandresdf/spotify-clone/blob/main/src/assets/img/print.png" />
@@ -74,3 +76,5 @@ Este projeto consiste em uma replica da página do Spotify versão desktop,
         <pre><code>http://localhost:3000</code></pre>
     </ol>
     
+
+
