@@ -1,4 +1,4 @@
-## Clonei a Pagina do Spotify  
+## Clone Pagina do Spotify  
 
 Este projeto consiste em uma replica da página do Spotify versão desktop, 
  aprendida na Imersão Front-End proporcionado pela empresa Alura.💙
